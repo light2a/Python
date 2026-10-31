@@ -8,7 +8,7 @@ Mỗi bài là một thư mục riêng, gồm code thực hành và bài tập.
 | Bài | Chủ đề | Trạng thái |
 |-----|--------|------------|
 | [0.1](0_1_python_basics/) | Python cho dev C#: list/dict/set, comprehension, dataclass, module, venv | ✅ Xong |
-| [0.2](0_2_numpy/) | NumPy và tư duy vector hoá: ndarray, shape, mask, broadcasting | 🚧 Đang học |
+| [0.2](0_2_numpy/) | NumPy và tư duy vector hoá: ndarray, shape, mask, broadcasting, view/copy, z-score, khoảng cách | ✅ Xong |
 
 ## Cấu trúc
 
